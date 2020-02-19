@@ -1,0 +1,17 @@
+body{
+    background-color:lightblue;
+}
+
+.input{
+    border: black;
+}
+
+div{
+    background-color: lightskyblue ;
+    border: 1px solid black;
+    width: 250px;
+}
+
+.a{
+    font-size: 14px;
+}
